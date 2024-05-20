@@ -17,7 +17,7 @@ body {
   display: block;
   color: white;
   padding: 0.25rem;
-  margin-top: 2vh;
+  margin-top: 20px;
 }
 @keyframes shade {
   0% {
