@@ -7,11 +7,11 @@ body {
   margin: 0;
 }
 .flex-box {
+  margin: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
   width: 80%;
-  margin: auto;
 }
 .content {
   display: block;
