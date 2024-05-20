@@ -11,7 +11,7 @@ body {
   flex-direction: column;
   justify-content: center;
   width: 80%;
-  margin: auto 50px auto;
+  margin: 10% 20% 10%;
 }
 .flex-box > div {
   display: block;
