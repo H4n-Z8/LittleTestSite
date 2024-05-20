@@ -15,7 +15,7 @@ body {
   margin-top: 5%;
 }
 .box1 {
-  padding: 0.25rem;
+  padding: 1rem;
   color: white;
   display: block;
   background-image: linear-gradient(
@@ -26,7 +26,7 @@ body {
   margin-bottom: 3%;
 }
 .box2 {
-  padding: 0.25rem;
+  padding: 1rem;
   color: white;
   display: block;
   background-image: linear-gradient(
@@ -37,11 +37,14 @@ body {
   margin-bottom: 3%;
 }
 .box3 {
-  padding: 0.25rem;
+  padding: 1rem;
   color: white;
   display: block;
   background: black;
   margin-bottom: 3%;
+}
+.headers {
+  margin-bottom: 1%;
 }
 @keyframes shade {
   0% {
