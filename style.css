@@ -13,7 +13,6 @@ body {
   width: 90%;
   margin: auto;
   margin-top: 5%;
-  align-content: space-around;
 }
 .box1 {
   padding: 0.25rem;
@@ -24,6 +23,7 @@ body {
     rgb(255, 35, 35),
     rgb(253, 45, 225)
   );
+  margin-top: 3%;
 }
 .box2 {
   padding: 0.25rem;
