@@ -34,12 +34,14 @@ body {
     rgb(28, 88, 255),
     rgb(130, 21, 255)
   );
+  margin-bottom: 3%;
 }
 .box3 {
   padding: 0.25rem;
   color: white;
   display: block;
   background: black;
+  margin-bottom: 3%;
 }
 @keyframes shade {
   0% {
