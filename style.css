@@ -18,11 +18,27 @@ body {
   padding: 0.25rem;
   color: white;
   display: block;
-  background-image: linear-gradient(to right, red, yellow);
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 35, 35),
+    rgb(253, 45, 225)
+  );
 }
 .box2 {
+  padding: 0.25rem;
+  color: white;
+  display: block;
+  background-image: linear-gradient(
+    to right,
+    rgb(28, 88, 255),
+    rgb(130, 21, 255)
+  );
 }
 .box3 {
+  padding: 0.25rem;
+  color: white;
+  display: block;
+  background: black;
 }
 @keyframes shade {
   0% {
