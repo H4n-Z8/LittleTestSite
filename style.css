@@ -1,6 +1,6 @@
 html {
   min-height: 100vh;
-  background-color: rgb(32, 32, 32);
+  background-color: rgb(67, 249, 255);
   animation: shade 20s infinite;
 }
 body {
@@ -14,40 +14,45 @@ body {
   margin: auto;
   margin-top: 5%;
 }
-.flex-box > div {
-  display: block;
-  color: white;
+.box1 {
   padding: 0.25rem;
+  color: white;
+  display: block;
+  background-image: linear-gradient(to right, red, yellow);
+}
+.box2 {
+}
+.box3 {
 }
 @keyframes shade {
   0% {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(67, 249, 255);
   }
   20% {
-    background-color: rgb(77, 83, 88);
+    background-color: rgb(67, 255, 177);
   }
   40% {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(67, 249, 255);
   }
   60% {
-    background-color: rgb(77, 83, 88);
+    background-color: rgb(67, 255, 177);
   }
   80% {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(67, 249, 255);
   }
   100% {
-    background-color: rgb(77, 83, 88);
+    background-color: rgb(67, 255, 177);
   }
   80% {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(67, 249, 255);
   }
   60% {
-    background-color: rgb(77, 83, 88);
+    background-color: rgb(67, 255, 177);
   }
   20% {
-    background-color: rgb(32, 32, 32);
+    background-color: rgb(67, 249, 255);
   }
   0% {
-    background-color: rgb(77, 83, 88);
+    background-color: rgb(67, 255, 177);
   }
 }
