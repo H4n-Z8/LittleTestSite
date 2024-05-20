@@ -11,7 +11,6 @@ body {
   flex-direction: column;
   justify-content: center;
   width: 80%;
-  height: 8rem;
   margin: auto;
 }
 .content {
