@@ -6,7 +6,7 @@ html {
 body {
   margin: 0;
 }
-.boxing {
+.flex-box {
   display: flex;
   flex-direction: column;
   justify-content: center;
