@@ -11,13 +11,13 @@ body {
   flex-direction: column;
   justify-content: center;
   width: 80%;
+  height: 8rem;
   margin: auto;
 }
 .content {
   display: block;
   color: white;
   padding: 0.25rem;
-  margin-top: 20px;
 }
 @keyframes shade {
   0% {
