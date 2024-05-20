@@ -10,9 +10,9 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 80%;
+  width: 90%;
   margin: auto;
-  margin-top: 10%;
+  margin-top: 5%;
 }
 .flex-box > div {
   display: block;
