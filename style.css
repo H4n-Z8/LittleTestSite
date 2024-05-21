@@ -71,7 +71,7 @@ body {
   color: rgb(245, 75, 45);
 }
 .navbar a.active {
-  animation: shade 2s infinite;
+  animation: shade 5s infinite;
   color: rgb(1, 185, 185);
 }
 @keyframes shade {
