@@ -44,7 +44,7 @@ body {
   margin-bottom: 3%;
 }
 .headers {
-  line-height: 20%;
+  margin-bottom: 5rem;
 }
 @keyframes shade {
   0% {
