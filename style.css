@@ -44,7 +44,7 @@ body {
   margin-bottom: 3%;
 }
 .headers {
-  text-indent: 20rem;
+  line-height: 50%;
 }
 @keyframes shade {
   0% {
