@@ -52,6 +52,29 @@ body {
   font-size: 2rem;
   font-family: titillium, monospace, "Times New Roman";
 }
+.navbar {
+  background-color: rgb(54, 54, 54);
+  overflow: hidden;
+  top: 0;
+  width: 100%;
+  position: fixed;
+}
+.navbar a {
+  float: left;
+  color: aqua;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  opacity: 0.6;
+  color: rgb(245, 75, 45);
+}
+.navbar a.active {
+  background-color: aqua;
+  color: rgb(54, 54, 54);
+}
 @keyframes shade {
   0% {
     background-color: rgb(67, 249, 255);
