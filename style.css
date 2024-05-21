@@ -44,8 +44,9 @@ body {
   margin-bottom: 3%;
 }
 .headers {
-  margin-bottom: 0, 25rem;
-  text-align: center;
+  margin-bottom: 0, 5rem;
+  text-align: left;
+  font-size: 1rem;
 }
 @keyframes shade {
   0% {
