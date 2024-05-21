@@ -60,7 +60,7 @@ body {
 }
 .navbar a {
   float: left;
-  color: aqua;
+  color: rgb(1, 185, 185);
   text-align: center;
   padding: 14px 16px;
   font-size: 17px;
@@ -72,37 +72,37 @@ body {
 }
 .navbar a.active {
   animation: shade 2s infinite;
-  color: rgb(54, 54, 54);
+  color: rgb(1, 185, 185);
 }
 @keyframes shade {
   0% {
     background-color: rgb(67, 249, 255);
   }
   20% {
-    background-color: rgb(67, 255, 177);
+    background-color: rgb(54, 54, 54);
   }
   40% {
     background-color: rgb(67, 249, 255);
   }
   60% {
-    background-color: rgb(67, 255, 177);
+    background-color: rgb(54, 54, 54);
   }
   80% {
     background-color: rgb(67, 249, 255);
   }
   100% {
-    background-color: rgb(67, 255, 177);
+    background-color: rgb(54, 54, 54);
   }
   80% {
     background-color: rgb(67, 249, 255);
   }
   60% {
-    background-color: rgb(67, 255, 177);
+    background-color: rgb(54, 54, 54);
   }
   20% {
     background-color: rgb(67, 249, 255);
   }
   0% {
-    background-color: rgb(67, 255, 177);
+    background-color: rgb(54, 54, 54);
   }
 }
