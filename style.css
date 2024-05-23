@@ -52,7 +52,7 @@ body {
   font-family: titillium, monospace, "Times New Roman";
 }
 .content_text {
-  letter-spacing: 0.13rem;
+  letter-spacing: 0.12rem;
   line-height: 1.3rem;
 }
 .navbar {
@@ -82,31 +82,13 @@ body {
   0% {
     background-color: rgb(67, 249, 255);
   }
-  20% {
+  33% {
     background-color: rgb(54, 54, 54);
   }
-  40% {
+  66% {
     background-color: rgb(67, 249, 255);
   }
-  60% {
-    background-color: rgb(54, 54, 54);
-  }
-  80% {
-    background-color: rgb(67, 249, 255);
-  }
-  100% {
-    background-color: rgb(54, 54, 54);
-  }
-  80% {
-    background-color: rgb(67, 249, 255);
-  }
-  60% {
-    background-color: rgb(54, 54, 54);
-  }
-  20% {
-    background-color: rgb(67, 249, 255);
-  }
-  0% {
+  99% {
     background-color: rgb(54, 54, 54);
   }
 }
