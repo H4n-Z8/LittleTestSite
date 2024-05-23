@@ -11,7 +11,7 @@ body {
   justify-content: center;
   width: 90%;
   margin: auto;
-  margin-top: 8%;
+  margin-top: 10rem;
 }
 .box1 {
   padding: 1rem;
@@ -50,6 +50,9 @@ body {
   text-align: left;
   font-size: 2rem;
   font-family: titillium, monospace, "Times New Roman";
+}
+.content text {
+  letter-spacing: 0, 25rem;
 }
 .navbar {
   background-color: rgb(54, 54, 54);
