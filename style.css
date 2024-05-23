@@ -75,7 +75,7 @@ body {
 }
 .navbar a {
   float: left;
-  color: rgb(1, 185, 185);
+  color: rgb(241, 241, 241);
   text-align: center;
   padding: 14px 16px;
   font-size: 17px;
@@ -83,11 +83,11 @@ body {
 }
 .navbar a:hover {
   opacity: 0.6;
-  color: rgb(245, 75, 45);
+  color: rgb(67, 249, 255);
 }
 .navbar a.active {
   animation: shade 5s infinite;
-  color: rgb(1, 185, 185);
+  color: rgb(67, 249, 255);
   padding: 0.5rem 0.5rem 0.25rem 0.5rem;
 }
 @keyframes shade {
