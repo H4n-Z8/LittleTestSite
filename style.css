@@ -61,6 +61,11 @@ body {
   letter-spacing: 0.12rem;
   line-height: 1.3rem;
 }
+.content_textContact {
+  letter-spacing: 0.12rem;
+  line-height: 1.3rem;
+  text-align: center;
+}
 .navbar {
   background-color: rgb(54, 54, 54);
   overflow: hidden;
