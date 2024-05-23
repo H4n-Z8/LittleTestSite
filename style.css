@@ -52,7 +52,7 @@ body {
   font-family: titillium, monospace, "Times New Roman";
 }
 .content_text {
-  letter-spacing: 1rem;
+  letter-spacing: 0, 75rem;
   line-height: 2rem;
 }
 .navbar {
