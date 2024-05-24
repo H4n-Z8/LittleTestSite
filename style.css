@@ -96,7 +96,7 @@ body {
 }
 .navbar a.notactive {
   color: rgb(54, 54, 54);
-  padding: 0.5rem 0.5rem 0.2rem 0.5rem;
+  padding: 0.5rem 0.5rem 0.21rem 0.5rem;
 }
 .navbar a.activeContact {
   animation: shade 5s infinite;
