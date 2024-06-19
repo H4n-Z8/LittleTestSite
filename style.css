@@ -45,6 +45,14 @@ body {
   margin-bottom: 3%;
   font-family: titillium, monospace, "Times New Roman";
 }
+.box4 {
+  padding: 1rem;
+  color: white;
+  display: block;
+  background-image: linear-gradient(to right, red, orange);
+  margin-bottom: 3%;
+  font-family: titillium, monospace, "Times New Roman";
+}
 .headers {
   margin-bottom: 1rem;
   text-align: left;
@@ -56,6 +64,11 @@ body {
   text-align: center;
   font-size: 2rem;
   font-family: titillium, monospace, "Times New Roman";
+}
+.ListHeaders {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: 1.5rem;
 }
 .content_text {
   letter-spacing: 0.12rem;
