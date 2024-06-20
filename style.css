@@ -15,6 +15,7 @@ body {
 }
 .box1 {
   padding: 1rem;
+  border-radius: 1.5rem;
   color: white;
   display: block;
   background-image: linear-gradient(
@@ -27,6 +28,7 @@ body {
 }
 .box2 {
   padding: 1rem;
+  border-radius: 1.5rem;
   color: white;
   display: block;
   background-image: linear-gradient(
@@ -39,6 +41,7 @@ body {
 }
 .box3 {
   padding: 1rem;
+  border-radius: 1.5rem;
   color: white;
   display: block;
   background: black;
@@ -47,6 +50,7 @@ body {
 }
 .box4 {
   padding: 1rem;
+  border-radius: 1.5rem;
   color: white;
   display: block;
   background-image: linear-gradient(to right, red, orange);
@@ -119,13 +123,16 @@ body {
   0% {
     background-color: rgb(67, 249, 255);
   }
-  33% {
+  25% {
     background-color: rgb(54, 54, 54);
   }
-  66% {
+  50% {
     background-color: rgb(67, 249, 255);
   }
-  99% {
+  75% {
     background-color: rgb(54, 54, 54);
+  }
+  100% {
+    background-color: rgb(67, 249, 255);
   }
 }
