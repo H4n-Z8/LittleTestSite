@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Comments</title>
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="./index.html" class="notactive">
+        <img
+          src="https://github.com/HANZZZZZZZZ/LittleTestSite/blob/main/images/foxyicon.png?raw=true"
+          alt="Home"
+          style="width: 2rem; height: 2rem"
+        />
+      </a>
+      <a href="./lebenslauf.html" class="activeContact">Lebenslauf</a>
+      <a href="./contact.html">Contact</a>
+    </div>
+    <div class="flex-box">
+      <div class="box1">
+        <div class="headers">
+          <b> Comments </b>
+        </div>
+        <div class="content_text">
+          Hier Können sie einen Commentar zur Website da lassen.<br />
+        </div>
+        <div class="box5">
+          <form method="POST" action="/post-feedback">
+            <label>
+              <div class="headcomment">Name</div>
+              <br />
+              <input class="input" type="text" name="client-name" required />
+            </label>
+            <br />
+            <label>
+              <div class="headcomment">Comment</div>
+              <br />
+              <input class="input2" type="text" name="comment" required />
+            </label>
+            <br />
+            <input type="submit" value="Submit" />
+          </form>
+        </div>
+      </div>
+      <div class="box2">
+        <div class="headers">
+          <b> Comments </b>
+        </div>
+        <div class="content_text">----<br /></div>
+      </div>
+    </div>
+  </body>
+</html>

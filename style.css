@@ -57,6 +57,31 @@ body {
   margin-bottom: 3%;
   font-family: titillium, monospace, "Times New Roman";
 }
+.box5 {
+  padding: 1rem;
+  color: white;
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(to right, red, orange);
+  margin-bottom: 3%;
+  font-family: titillium, monospace, "Times New Roman";
+}
+.headcomment {
+  text-align: center;
+  font-size: 1.3rem;
+  font-family: titillium, monospace, "Times New Roman";
+}
+.input {
+  width: 10rem;
+  margin-bottom: 1rem;
+  justify-content: center;
+}
+.input2 {
+  width: 50rem;
+  height: 5rem;
+  margin: auto;
+  margin-bottom: 1rem;
+}
 .headers {
   margin-bottom: 1rem;
   text-align: left;
